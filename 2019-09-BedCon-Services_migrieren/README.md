@@ -13,6 +13,10 @@
 * [https://www.tarent.de/](https://www.tarent.de/)
 * [https://www.tarent.de/academy/](https://www.tarent.de/academy/)
 
+## Conference
+
+* [Berlin Expert Days 2019](http://bed-con.org/2019/)
+
 ## Slides
 
 * [Services migrieren - Tücken, Tricks und 3 Fallbeispiele](2019-09_BedCon_-_Services_migrieren_-_DE.pdf)
