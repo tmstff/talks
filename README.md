@@ -7,6 +7,7 @@
 
 # talks & workshops
 
+* 2019-12-09 Softwerkskammer: [Test Driven Development in Practice](https://github.com/tarent/tdd-softwerkskammer) (DE)
 * 2019-09-27 TACON: [Testcontainers: einfach Docker Container in Tests einbinden](https://tmstff.github.io/2019-09-testcontainers-workshop-TaCon/) (DE)
 * 2019-09-06 BedCon: [Services migrieren - Tücken, Tricks und 3 Fallbeispiele](2019-09-BedCon-Services_migrieren) (DE)
 * 2019-06-15 tarent Never Code Alone: [TDD @ NCA](https://tmstff.github.io/tdd-nca) (DE)
