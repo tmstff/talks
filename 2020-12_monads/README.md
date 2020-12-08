@@ -23,3 +23,7 @@ Die meisten Entwickler haben heutzutage schon mit Monaden gearbeitet, häufig oh
 * Price Example
     * [price.sc](price.sc)
     * [price.go](price.go)
+
+## Links
+
+* [Category Theory lecture](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) by [Bartosz Milewski](https://bartoszmilewski.com/)
