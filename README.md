@@ -7,6 +7,7 @@
 
 # talks & workshops
 
+* 2020-12-04 tarent Tech Friday: [Monaden – und was die .map() Funktion damit zu tun hat](2020-12_monads/README.md)
 * 2019-12-09 Softwerkskammer: [Test Driven Development in Practice](https://github.com/tarent/tdd-softwerkskammer) (DE)
 * 2019-09-27 TACON: [Testcontainers: einfach Docker Container in Tests einbinden](https://tmstff.github.io/2019-09-testcontainers-workshop-TaCon/) (DE)
 * 2019-09-06 BedCon: [Services migrieren - Tücken, Tricks und 3 Fallbeispiele](2019-09-BedCon-Services_migrieren) (DE)
