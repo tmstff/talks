@@ -1,6 +1,6 @@
 # Tim Steffens
 
-* [t.steffens@tarent.de](mailto:t.steffens@tarent.de)
+* [tim.steffens@greenbone.net](mailto:tim.steffens@greenbone.net)
 * [@tmstff](https://twitter.com/tmstff)
 * [https://github.com/tmstff](https://github.com/tmstff)
 
