@@ -8,6 +8,8 @@
 # talks & workshops
 
 * 2024-05-02 [summit Community Days Softwarearchitektur & Softwareentwicklung](https://summit-community.de/veranstaltung/softwarearchitektur-softwareentwicklung/): [Test Automation & QA Strategy bei kurzen Iterationen – ein Erfahrungsbericht von Greenbone](slides/testing@greenbone.pdf) (Slides: EN)
+* 2022-03-21 Greenbone: [Exploratory Testing within the Team](slides/et.pdf) (EN)
+* 2022-01-20 Greenbone: [Docker Basics Workshop](https://github.com/tmstff/docker-workshop) (EN)
 * 2020-12-04 tarent Tech Friday: [Monaden – und was die .map() Funktion damit zu tun hat](2020-12_monads/README.md) (DE)
 * 2019-12-09 Softwerkskammer: [Test Driven Development in Practice](https://github.com/tarent/tdd-softwerkskammer) (DE)
 * 2019-09-27 TACON: [Testcontainers: einfach Docker Container in Tests einbinden](https://tmstff.github.io/2019-09-testcontainers-workshop-TaCon/) (DE)
