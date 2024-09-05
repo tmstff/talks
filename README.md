@@ -1,7 +1,6 @@
 # Tim Steffens
 
-* [tim.steffens@greenbone.net](mailto:tim.steffens@greenbone.net)
-* [@tmstff](https://twitter.com/tmstff)
+* [LinkedIn](https://www.linkedin.com/in/tim-steffens-62039268/)
 * [https://github.com/tmstff](https://github.com/tmstff)
 
 
