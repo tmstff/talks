@@ -7,6 +7,7 @@
 
 # talks & workshops
 
+* 2024-09-09 [Softwerkskammer](https://www.softwerkskammer.org/activities/swk-cgn-2024-09-09): [Test Automation and QA Strategy for Short Iterations](slides/testing@greenbone.softwerkskammer.pdf) (Slides: EN)
 * 2024-05-02 [summit Community Days Softwarearchitektur & Softwareentwicklung](https://summit-community.de/veranstaltung/softwarearchitektur-softwareentwicklung/): [Test Automation & QA Strategy bei kurzen Iterationen – ein Erfahrungsbericht von Greenbone](slides/testing@greenbone.pdf) (Slides: EN)
 * 2022-03-21 Greenbone: [Exploratory Testing within the Team](slides/et.pdf) (EN)
 * 2022-01-20 Greenbone: [Docker Basics Workshop](https://github.com/tmstff/docker-workshop) (EN)
